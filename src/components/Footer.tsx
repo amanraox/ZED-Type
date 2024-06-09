@@ -59,7 +59,7 @@ export default function Footer() {
                     <span>&lt;/&gt;</span> github
                 </a>
                 <span>
-                    Made with love by{" "}
+                    Made by{" "}
                     <a
                         target="_blank"
                         rel="noreferrer"
