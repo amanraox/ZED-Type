@@ -63,7 +63,7 @@ export default function Footer() {
                     <a
                         target="_blank"
                         rel="noreferrer"
-                        href="https://www.linkedin.com/in/amanraox">
+                        href="https://www.amanraox.me">
                         @amanraox
                     </a>🍁
                 </span>
